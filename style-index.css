@@ -1,0 +1,47 @@
+#destaque {
+	width: 120%;
+}
+
+.principal {
+	background:green;
+	padding: 35px;
+}
+
+.titulo-principal {
+	background: blue;
+	text-align: center;
+	padding: 40px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#feedback {
+	font-size: 25px;
+}
+
+strong em {
+	color: red;
+}
+
+.lista-diferencial {
+	display:inline-block;
+	vertical-align: top;
+	
+	
+}
+.diferencial {
+	background: #ff2f2f;
+}
+
+.itens {
+	font-size: 20px;
+	font-style: italic ;
+	width: 300%;
+	margin-right:50%;
+ }
